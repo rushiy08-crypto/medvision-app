@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedVision</string>
+    <string name="tap_to_speak">TAP TO SPEAK</string>
+    <string name="camera_button">Camera</string>
+    <string name="stop_button">Stop</string>
+    <string name="listening">I\'m listening...</string>
+    <string name="camera_ready">Camera is ready. Ask me what you want to know.</string>
+    <string name="startup_message">MedVision is ready. Tap the microphone and tell me what you need.</string>
+    <string name="camera_permission_denied">Camera permission is required for vision.</string>
+    <string name="microphone_permission_denied">Microphone permission is required for voice commands.</string>
+    <string name="speech_not_understood">I didn\'t understand. Please try again.</string>
+    <string name="vision_unavailable">Vision service is currently unavailable.</string>
+    <string name="no_text_found">I can\'t find readable text.</string>
+    <string name="camera_opening">Opening camera...</string>
+    <string name="processing">Processing your request...</string>
+    <string name="continuous_vision_started">Continuous vision started.</string>
+    <string name="continuous_vision_stopped">Continuous vision stopped.</string>
+    <string name="camera_stopped">Camera stopped.</string>
+    <string name="medical_disclaimer">AI observations are informational and do not replace a doctor or emergency services.</string>
+</resources>
